@@ -1,7 +1,7 @@
 # Lunar Lander QLearning
-Training a reinforcement learning agent for OpenAI gymnasium's lunar lander environment.
+This project trains a reinforcement learning agent for OpenAI Gymnasium's **Lunar Lander** environment!
 
-The goal was to implement tabular Q-learning from scratch and practice working with gymnasium environments for reinforcement learning.
+The goal is to develop an agent that maintains stability in midair and safely lands on the landing pad while firing the thrusters as little as possible. Implementing the tabular Q-learning algorithm for this project was a fun and hands-on way to dive into reinforcement learning and get familiar with Gymnasium environments.
 
 ![untrained agent](./untrained_agent.gif)  
 3 episodes of an untrained, random agent
